@@ -1,0 +1,249 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #dbeaff;
+}
+
+img {
+    padding-left: 20px;
+}
+
+nav {
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px 12px;
+    position: relative;
+    margin: 10px;
+    right: 200px;
+}
+
+.nav-links ul li a {
+    color: #5735d2;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.i {
+    text-decoration: none;
+    color: #5735d2;
+}
+
+.you {
+    color: #000;
+    text-decoration: none;
+    right: 23px;
+    margin-left: 5px;
+}
+
+.you a {
+    left: 500px;
+}
+
+.i {
+    display: inline-block;
+    background: #fff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.when {
+    /* padding-left: 80px; */
+    /* padding-top: 84px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.when p {
+    color: orange;
+}
+
+.when h1 {
+    padding-top: 18px;
+    font-size: 50px;
+}
+
+span {
+    color: #5735d2;
+}
+
+.btn {
+    display: block;
+    margin-left: 600px;
+    margin-top: 100px;
+    bottom: 50px;
+}
+
+.btn img {
+    padding-bottom: 70px;
+}
+
+.see {
+    padding-top: 17px;
+}
+
+.see p {
+    color: skyblue;
+    font-size: 12px;
+}
+
+.butt {
+    padding-top: 30px;
+}
+
+.butt .first {
+    padding-top: 50px;
+    display: inline-block;
+    color: #fff;
+    background: #5735d2;
+    padding: 12px 34px;
+    padding-top: 20px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    position: relative;
+    margin: 10px;
+}
+
+.butt .second {
+    padding-top: 50px;
+    display: inline-block;
+    color: #5735d2;
+    background: #fff;
+    padding: 12px 34px;
+    padding-top: 20px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    position: relative;
+}
+
+/* header two */
+
+.header-two {
+    text-align: center;
+}
+
+.header-two p {
+    padding-top: 50px;
+    color: orange;
+    font-size: 15px;
+}
+
+.pin p {
+    color: lightblue;
+    padding-top: 20px;
+}
+
+.column img {
+    width: 230px;
+    height: 45px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 500px;
+    padding-right: 70px;
+    position: absolute;
+    width: 800px;
+    height: 45px;
+    padding-top: 30px;
+}
+
+.door {
+    text-decoration: none;
+}
+
+.sweet {
+    margin-top: 200px;
+    margin-left: 60px;
+    margin-right: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.sweet p {
+    color: orange;
+    font-size: 15px;
+}
+
+.sweet h1 {
+    margin-top: 8px;
+    color: #282B6D;
+}
+.hope p{
+    color: #9AA5B6;
+}
+.course{
+    width: 100%;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    padding: 10px;
+}
+.me{
+    width: 90%;
+    margin-top: 5%;
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    height: 335px;
+}
+
+.course-col{
+    flex-basis: 31%;
+    background:#F8FAFF;
+    border-radius: 12px;
+    margin-bottom: 5%;
+    padding: 20px 49px 10px 16px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 19px;
+}
+h3{
+    text-align: left;
+    font-size: 20px;
+    margin: 10px 0;
+    padding-bottom: 7px;
+    padding-right: 20px;
+    padding-top: 70px;
+}
+.voice{
+    padding-top: 4px;
+}
+.voice p{
+    text-decoration: none;
+    color: #5735d2;
+    padding-top: 9px;
+    font-size: 20px;
+}
+.old{
+    padding-top: 00px;
+}
